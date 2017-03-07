@@ -1,0 +1,22 @@
+{
+  "name": "xserver2",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackzhuo/xserver2.git"
+  },
+  "author": "blackzhuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackzhuo/xserver2/issues"
+  },
+  "homepage": "https://github.com/blackzhuo/xserver2#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
